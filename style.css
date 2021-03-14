@@ -142,6 +142,10 @@ button.next {
     padding-top: 2rem
 }
 
+.container-footer {
+    text-align: center;
+}
+
 .container-footer p {
     font-weight: 700;
     font-size: 15px;
