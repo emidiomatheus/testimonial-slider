@@ -200,6 +200,10 @@ button.next {
     .testimonial {
         text-align: left;
     }
+
+    .container-footer {
+        text-align: left;
+    }
 }
 
 /* Desktop */
